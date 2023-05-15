@@ -1,0 +1,27 @@
+{
+  "name": "wl_test",
+  "version": "1.0.0",
+  "description": "Wireless Logic Assessment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IntelCoder0103/WL_test.git"
+  },
+  "author": "Artem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IntelCoder0103/WL_test/issues"
+  },
+  "homepage": "https://github.com/IntelCoder0103/WL_test#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.0.3",
+    "jest": "^29.5.0",
+    "node-fetch": "^2.6.11",
+    "request": "^2.88.2"
+  }
+}
