@@ -8,5 +8,5 @@
 ## How to run
     npm start
 
-## How to start
+## How to test
     npm test
